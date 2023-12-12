@@ -1,0 +1,3 @@
+D:\VisualStudio\Projects\KSR\KSR\x64\Debug\KSR.vcxproj.AssemblyReference.cache
+D:\VisualStudio\Projects\KSR\KSR\x64\Debug\KSR.MyForm.resources
+D:\VisualStudio\Projects\KSR\KSR\x64\Debug\KSR.vcxproj.GenerateResource.cache

@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\VisualStudio\Projects\KSR\KSR\MyForm.cpp(12,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+D:\VisualStudio\Projects\KSR\KSR\MyForm.cpp(59,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VisualStudio\Projects\KSR\KSR\MyForm.cpp(83,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VisualStudio\Projects\KSR\KSR\MyForm.cpp(107,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\VisualStudio\Projects\KSR\KSR\MyForm.cpp(166,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KSR.vcxproj -> D:\VisualStudio\Projects\KSR\x64\Debug\KSR.exe
